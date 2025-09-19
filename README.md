@@ -8,7 +8,7 @@
  <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-<h2>👋 Hi, I'm Benziane Younes</h2>
+<h2>👋 Hey! Nice to see you., I'm Benziane Younes.</h2>
 <h3>🚀 Frontend Developer</h3>
 
 </div>
