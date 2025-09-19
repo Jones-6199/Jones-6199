@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/your-username/your-repo/main/hello-benziane.png" alt="Hello Coders - Benziane Younes" width="70%"/>
+
 
 </div>
  <br>
