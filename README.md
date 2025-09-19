@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+[<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>](https://sdmntprwestus.oaiusercontent.com/files/00000000-f2b8-6230-b6ed-b23e3be8e010/raw?se=2025-09-20T00%3A47%3A10Z&sp=r&sv=2024-08-04&sr=b&scid=5d9f1ef1-f133-5f0c-9ac0-9a69877608de&skoid=1e6af1bf-6b08-4a04-8919-15773e7e7024&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-19T20%3A46%3A47Z&ske=2025-09-20T20%3A46%3A47Z&sks=b&skv=2024-08-04&sig=0FnJhm2LYGoPDlNrS4tKdl4ucRHVQW/pK3JRtYNGlHc%3D) <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 <h2>👋 Hi, I'm Benziane Younes</h2>
