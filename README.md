@@ -1,7 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://raw.githubusercontent.com/Jones-6199/Jones-6199/76258f6994e5ff9c69c2a076ad07645f77163466/download.svg" width="60%" alt="Welcome"
-
+<img src="https://raw.githubusercontent.com/Jones-6199/Jones-6199/76258f6994e5ff9c69c2a076ad07645f77163466/download.svg" alt="Workspace"  width="60%"/><br> 
 
 <div align="center">
 
