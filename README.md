@@ -3,7 +3,7 @@
 <div align="center">
 ### 👋 Hello Coders
 
-![Hello Coders](./hello-coders.gif)
+![Hello Coders](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/hello-coders.gif)
 
 
 
