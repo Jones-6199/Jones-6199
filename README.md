@@ -3,7 +3,8 @@
 <div align="center">
 ### 👋 Hello Coders
 
-![Hello Coders](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/hello-coders.svg)
+![Hello Coders](./hello-coders.gif)
+
 
 
 
