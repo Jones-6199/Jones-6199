@@ -1,9 +1,67 @@
 <div align="center" width="50">
 
 <div align="center">
-### 👋 Hello Coders
 
-![Hello Coders](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/hello-coders.gif)
+![hello coders](<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="140" viewBox="0 0 760 140" role="img" aria-labelledby="title desc">
+  <title id="title">Hello Coders greeting</title>
+  <desc id="desc">Animated greeting that says "hello coders </>" for a GitHub README</desc>
+
+  <style>
+    :root{
+      --bg:#0b1220;
+      --panel:#071021;
+      --accent1:#60a5fa;
+      --accent2:#a78bfa;
+      --muted:#9fb0d3;
+      --text:#e6eef8;
+    }
+    svg { font-family: Inter, Roboto, system-ui, -apple-system, "Segoe UI", Arial; }
+    .panel { fill: var(--panel); rx:14; }
+    .shadow { fill: rgba(0,0,0,0.2); }
+    .title { font-weight:800; font-size:40px; letter-spacing:0.6px; fill:var(--text); }
+    .brackets { font-family:monospace; font-weight:700; font-size:40px; fill: url(#grad); opacity:0.95; }
+    .sub { font-size:14px; fill:var(--muted); }
+    /* animations */
+    .group { transform-origin: 380px 70px; }
+    .enter {
+      animation: floatIn 4s cubic-bezier(.2,.9,.2,1) infinite;
+    }
+    @keyframes floatIn {
+      0%   { opacity:0; transform: translateY(8px) scale(.985); }
+      10%  { opacity:1; transform: translateY(0) scale(1); }
+      45%  { opacity:1; transform: translateY(0) scale(1); }
+      55%  { opacity:0; transform: translateY(-8px) scale(.99); }
+      100% { opacity:0; }
+    }
+    /* subtle glow */
+    .glow { filter: drop-shadow(0 6px 18px rgba(99,102,241,0.12)); }
+  </style>
+
+  <!-- background rounded panel -->
+  <rect x="6" y="6" width="748" height="128" rx="16" class="panel"/>
+  <defs>
+    <linearGradient id="grad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+
+  <g class="group enter glow">
+    <text x="50%" y="58" text-anchor="middle" class="title">
+      hello coders <tspan class="brackets">&lt;/&gt;</tspan>
+    </text>
+    <text x="50%" y="92" text-anchor="middle" class="sub">
+      welcome — glad you're here
+    </text>
+  </g>
+
+  <!-- small accent dots -->
+  <circle cx="72" cy="40" r="4.5" fill="#34d399" opacity="0.9"/>
+  <circle cx="120" cy="36" r="3" fill="#f97316" opacity="0.85"/>
+  <circle cx="700" cy="40" r="3.5" fill="#60a5fa" opacity="0.9"/>
+</svg>
+)
 
 
 
