@@ -14,6 +14,11 @@
 
 </div>
 
+## About me:
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" width="25" height="25" /> My name is **Benziane Younes**.  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="25" height="25" /> Passionate about web development, always improving my skills and building cool projects.  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="25" height="25" /> Frontend developer specialized in **JavaScript, TypeScript, and modern web technologies**.  
+
 ---
 
 ### 🛠️ Tech Stack  
