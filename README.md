@@ -52,13 +52,15 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-<a  href="https://github.com/benzianeyounes">
+<div>
+  <a href="https://github.com/Jones-6199" style="flex: 1;">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jones-6199&layout=compact&langs_count=7&theme=dracula&hide=python,java,c,cpp" />
+  </a>
+  <a style="flex: 1; text-align: right;">
+     <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="180" height="180" alt="Coding GIF" align="right" />
+  </a>
+</div>
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
 </div>
 
 ---
