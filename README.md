@@ -37,7 +37,11 @@
 ### 🤝 Soft Skills  
 - Teamwork 🤝  
 - Communication 🗣️  
-- Problem Solving 💡  
+- Problem-Solving and Adaptability 💡
+- Collaboration and Teamwork 🧑‍🤝‍🧑
+- Attention to Detail ✨
+- Time Management and Prioritization ⏰
+
 
 ---
 
