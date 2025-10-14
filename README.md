@@ -90,32 +90,15 @@
 
 ---
 
-<div align="center">
 
-![Totals Hits](https://komarev.com/ghpvc/?username=benzianeyounes&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbenzianeyounes&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+
+---
+
+
 
 </div>
 
 ---
-
-### 📊 GitHub Stats
-<div align="center">
-<div>
-  <a href="https://github.com/Jones-6199" style="flex: 1;">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jones-6199&layout=compact&langs_count=7&theme=dracula&hide=python,java,c,cpp" />
-  </a>
-  <a style="flex: 1; text-align: right;">
-     <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="180" height="180" alt="Coding GIF" align="right" />
-  </a>
-</div>
-
-</div>
-
----
-
-### ⚡ Fun Fact  
-💡 Coding + Coffee = Perfect Day ☕💻
 
  
 
