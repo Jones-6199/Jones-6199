@@ -65,14 +65,17 @@
 
 ###
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/devdotto.svg" alt="Dev.to" width="26" height="26" />
-  Tools I Use :
+  <span>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/devdotto.svg" width="22" alt="Dev.to" />
+    &nbsp;Tools I Use
+  </span>
 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,gitlab,vite,npm,yarn&theme=dark" />
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="Cursor IDE" width="48" height="48" title="Cursor IDE"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,gitlab,vite,npm,yarn,mui&theme=dark" />
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="48" alt="Cursor IDE" title="Cursor IDE"/>
 </p>
+
 
 
 ###
