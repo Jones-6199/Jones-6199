@@ -64,12 +64,16 @@
 
 
 ###
-<h3 align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/devdotto.svg" alt="Developer" width="26" height="26" />
- Tools I Use :</h3>
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/devdotto.svg" alt="Dev.to" width="26" height="26" />
+  Tools I Use :
+</h3>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,gitlab,vite,npm,yarn&theme=dark" />
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="Cursor" width="48" height="48" style="margin-left:10px;" title="Cursor IDE"/>
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="Cursor IDE" width="48" height="48" title="Cursor IDE"/>
 </p>
+
 
 ###
 
