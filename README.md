@@ -28,6 +28,8 @@
 
 ---
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> </b>
+
 
 <h3 align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/devdotto.svg" alt="Developer" width="26" height="26" />
  Languages:</h3>
@@ -65,6 +67,7 @@
 
 ###
 <h3 align="center">
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> </b>
   <span>
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/devdotto.svg" width="22" alt="Dev.to" />
     &nbsp;Tools I Use
@@ -76,7 +79,7 @@
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="48" alt="Cursor IDE" title="Cursor IDE"/>
 </p>
 
-
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> </b>
 
 ###
 
