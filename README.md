@@ -95,10 +95,15 @@
 
 ---
 
-<h3 align="center">## 📫 Connect with me:</h3>
+
+
+<h3 align="center">📫 Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/benziane-younes-321016385/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://x.com/Benziane_younes" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=61581377368497" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
