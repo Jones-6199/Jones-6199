@@ -132,4 +132,6 @@
 
 </p>
 
+---
 
+⭐️ *Thanks for visiting my profile! Don’t forget to check out my projects.*  
