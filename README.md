@@ -12,7 +12,7 @@
 
 <h2>👋 Hey! Nice to see you, I'm Benziane Younes.</h2>
 <h2>💻 Frontend Developer 
-
+<br>
  ** passionate about building clean and interactive web applications.  
  Always learning, always coding, always improving.  **
 </div>
