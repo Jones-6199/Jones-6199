@@ -1,3 +1,5 @@
+
+
 <div align="center" width="50">
 
 <img src="https://raw.githubusercontent.com/Jones-6199/Jones-6199/76258f6994e5ff9c69c2a076ad07645f77163466/download.svg" alt="Workspace"  width="100%"/><br> 
@@ -29,7 +31,9 @@
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> </b>
-
+<div align="right">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+</div>
 
 <h3 align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/devdotto.svg" alt="Developer" width="26" height="26" />
  Languages:</h3>
@@ -73,7 +77,9 @@
     &nbsp;Tools I Use
   </span>
 </h3>
-
+<div align="right">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+</div>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,gitlab,vite,npm,yarn,mui&theme=dark" />
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="48" alt="Cursor IDE" title="Cursor IDE"/>
