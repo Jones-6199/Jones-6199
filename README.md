@@ -121,27 +121,45 @@
 
 <h3 align="center">📫 Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/benziane-younes-321016385/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://x.com/Benziane_younes" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61581377368497" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@JonesThegreat" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-  <a href="https://github.com/joe16000" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/jonesthegoat_/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://wa.me/21372221898" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
-  </a>
+<a href="https://github.com/Jones-6199" target="_blank" rel="noreferrer">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"/>
+		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" />
+	</picture>
+</a>
+<a href="https://www.linkedin.com/in/benziane-younes-321016385" target="_blank" rel="noreferrer">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"/>
+		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" />
+	</picture>
+</a>
+<a href="https://www.facebook.com/profile.php?id=61581377368497" target="_blank" rel="noreferrer">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg"/>
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"/>
+		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="50" height="50" />
+	</picture>
+</a>
+<a href="https://discord.com/channels/1420837325956714589/1420837326913011774" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg#gh-dark-mode-only" width="50" height="50"/>
+</a>
+<a href="https://www.youtube.com/@JonesThegreat" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg#gh-dark-mode-only" width="50" height="50"/>
+</a>
+<a href="https://wa.me/213658102698" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="50" height="50"/>
+</a>
+<a href="https://www.instagram.com/jonesthegoat_/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="50" height="50" style="filter: brightness(0) invert(1);" #gh-dark-mode-only />
+</a>
+<a href="mailto:younesbenziane17@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="50" height="50" style="filter: brightness(0) invert(1);" #gh-dark-mode-only />
+</a>
+<a href="https://gitlab.com/younesbenziane17" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gitlab.svg" width="50" height="50" #gh-light-mode-only />
+</a>
 
 </p>
 
