@@ -73,10 +73,10 @@
 <h3 align="center">
  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> </b>
   <span>
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/devdotto.svg" width="22" alt="Dev.to" />
     &nbsp;Tools I Use
   </span>
 </h3>
+
 <div align="right"></div>
 
 <p align="center">
@@ -89,8 +89,7 @@
   <!-- Added Icons -->
   <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" alt="Vercel" title="Vercel"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" alt="Firebase" title="Firebase"/>
- 
-
+  <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="48" alt="Visual Studio" title="Visual Studio"/>
 </p>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> </b>
