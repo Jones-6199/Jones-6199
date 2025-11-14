@@ -121,6 +121,11 @@
 
 <h3 align="center">📫 Connect with me:</h3>
 <p align="center">
+	<a href="https://x.com/Benziane_younes">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg#gh-dark-mode-only" 
+       width="50" height="50"/>
+</a>
+
 <a href="https://github.com/Jones-6199" target="_blank" rel="noreferrer">
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
