@@ -91,6 +91,15 @@
 
   <!-- Bitbucket Icon -->
   <img src="https://skillicons.dev/icons?i=bitbucket&theme=dark" width="48" alt="Bitbucket" title="Bitbucket"/>
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/netlify-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/netlify.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/netlify.svg" width="50" height="50"/>
+  </picture>
+  
+</a>
+
 </p>
 
 
