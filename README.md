@@ -77,8 +77,6 @@
   </span>
 </h3>
 
-<div align="right"></div>
-
 <p align="center">
   <!-- Main Skill Icons -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,gitlab,vite,npm,yarn,mui&theme=dark" />
@@ -90,7 +88,11 @@
   <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" alt="Vercel" title="Vercel"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" alt="Firebase" title="Firebase"/>
   <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="48" alt="Visual Studio" title="Visual Studio"/>
+
+  <!-- Bitbucket Icon -->
+  <img src="https://skillicons.dev/icons?i=bitbucket&theme=dark" width="48" alt="Bitbucket" title="Bitbucket"/>
 </p>
+
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> </b>
 
