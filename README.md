@@ -16,7 +16,7 @@
 
  <br>
   <p align="center">
-    <a href="https://github.com/Jones-6199?tab=repositories"> <!-- Google Me -->
+    <a href="https://github.com/Jones-6199?tab=repositories" target="_blank"> <!-- Google Me -->
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
   </p>
   
