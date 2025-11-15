@@ -8,8 +8,18 @@
 
 </div>
 
- <br>
+<p>
+  <a href="https://younesb.netlify.app/">
+    <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/>
+  </a>
+</p>
 
+ <br>
+  <p align="center">
+    <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> <!-- Google Me -->
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
+  </p>
+  
 <h2>👋 Hey! Nice to see you, I'm Benziane Younes.</h2>
 <h2>💻 Frontend Developer 
 <br>
@@ -126,9 +136,14 @@
 
 
 ---
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=Jones-6199&theme=onestar&no-bg=true&no-frame=true&row=1&column=7&exclude=followers" />
+</p>
 
 
-
+---
 
 
 <h3 align="center">📫 Connect with me:</h3>
