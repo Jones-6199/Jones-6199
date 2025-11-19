@@ -21,7 +21,7 @@
   </p>
   
 <h2>👋 Hey! Nice to see you, I'm Benziane Younes.</h2>
-<h2>💻 Frontend Developer 
+<h2>💻 Frontend Developer based in Algeria.
 <br>
  ** passionate about building clean and interactive web applications.  
  Always learning, always coding, always improving.  **
