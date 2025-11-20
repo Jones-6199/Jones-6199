@@ -110,6 +110,7 @@
   </picture>
   <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" width="48" alt="PyCharm" title="PyCharm"/>
 	<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" alt="Postman" title="Postman"/>
+	<img src="https://cdn.iconscout.com/icon/free/png-256/insomnia-282591.png" width="48" alt="Insomnia" title="Insomnia"/>
 
 </a>
 
