@@ -109,6 +109,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/netlify.svg" width="50" height="50"/>
   </picture>
   <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" width="48" alt="PyCharm" title="PyCharm"/>
+	<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" alt="Postman" title="Postman"/>
 
 </a>
 
