@@ -199,6 +199,12 @@
 <a href="https://gitlab.com/younesbenziane17" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gitlab.svg" width="50" height="50" #gh-light-mode-only />
 </a>
+<a href="https://www.upwork.com/freelancers/~01b2a73d3f5cd2fc6b">
+  <img 
+    src="https://www.vectorlogo.zone/logos/upwork/upwork-ar21.svg" 
+    width="120"
+  />
+</a>
 
 </p>
 
