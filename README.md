@@ -147,7 +147,7 @@
 - ✨ Critical Thinking  
 - 🗣️ Communication  
 - ⏰ Time Management  
-- 💡 Problem-Solving & Adaptability  
+- 💡  Adaptability  
 - 👥 Collaboration  
 - 📚 Self-Learning  
 
