@@ -23,7 +23,6 @@
   </p>
   
 <h2>👋 Hey! Nice to see you, I'm Benziane Younes.</h2>
-<h2 align="center">Software Engineer | React.js Developer</h2>
 
 <h2>💻 Frontend Developer based in Algeria. A self-taught Software Developer with a strong motivation to learn new technologies and explore everything related to web development. Constantly improving my skills, and contributing to projects that make an impact.
 <br> <br>
