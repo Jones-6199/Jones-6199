@@ -143,12 +143,16 @@
 
 ### 🤝 Soft Skills  
 
-- Teamwork 🤝  
-- Communication 🗣️  
-- Problem-Solving and Adaptability 💡
-- Collaboration and Teamwork 🧑‍🤝‍🧑
-- Attention to Detail ✨
-- Time Management and Prioritization ⏰
+- 🤝 Teamwork  
+- ✨ Critical Thinking  
+- 🗣️ Communication  
+- ⏰ Time Management  
+- 💡 Problem-Solving & Adaptability  
+- 👥 Collaboration  
+- 📚 Self-Learning  
+
+
+
 
 
 ---
