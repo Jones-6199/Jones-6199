@@ -83,14 +83,7 @@
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
  
 </a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-  <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" 
-    alt="redux" 
-    width="40" 
-    height="40"
-  />
-</a>
+
 
 
 </p>
@@ -128,6 +121,14 @@
 	<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" alt="Postman" title="Postman"/>
 	<img src="https://cdn.iconscout.com/icon/free/png-256/insomnia-282591.png" width="48" alt="Insomnia" title="Insomnia"/>
 
+</a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" 
+    alt="redux" 
+    width="40" 
+    height="40"
+  />
 </a>
 
 </p>
