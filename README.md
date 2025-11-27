@@ -146,15 +146,20 @@
 
 
 
+<div align="center">
+
 ### 🤝 Soft Skills  
 
-- 🤝 Teamwork  
-- ✨ Critical Thinking  
-- 🗣️ Communication  
-- ⏰ Time Management  
-- 💡  Adaptability  
-- 👥 Collaboration  
-- 📚 Self-Learning  
+ 🤝 Teamwork  
+ ✨ Critical Thinking  
+ 🗣️ Communication  
+ ⏰ Time Management  
+ 💡 Adaptability  
+ 👥 Collaboration  
+ 📚 Self-Learning  
+
+</div>
+ 
 
 
 
