@@ -91,7 +91,7 @@
 <h3 align="center">
  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> </b>
   <span>
-    &nbsp;Tools I Use
+    &nbsp;Tools I Use:
   </span>
 </h3>
 
@@ -148,7 +148,7 @@
 
 <div align="center">
 
-###  Soft Skills  
+### 🎯  Soft Skills:
 
  🤝 Teamwork | ✨ Critical Thinking | 🗣️ Communication |  ⏰ Time Management |  💡 Adaptability  | 👥 Collaboration  | 📚 Self-Learning  
 
@@ -159,12 +159,8 @@
 
 
 
----
-### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=Jones-6199&theme=onestar&no-bg=true&no-frame=true&row=1&column=7&exclude=followers" />
-</p>
+
 
 
 ---
