@@ -35,7 +35,7 @@
 	 My long-term goal is to grow into a full-stack developer. I love learning new tools, exploring best practices, and turning ideas into real, functional products. I'm always open to collaboration and excited to contribute to impactful projects. 
 </h3>
 	<h2 align="center">
-		**	Currently open to new opportunities and collaborations, always excited to learn, grow, and take on new challenges  **
+		**	 Open to new opportunities and collaborations, always excited to learn, grow, and take on new challenges  **
 	</h2>
 </div>
 
