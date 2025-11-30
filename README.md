@@ -72,7 +72,7 @@
 </div>
 
 <h3 align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/devdotto.svg" alt="Developer" width="26" height="26" />
- Languages & Frameworks:</h3>
+ Languages & Frameworks I use:</h3>
 
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
