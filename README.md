@@ -1,5 +1,6 @@
 
 
+
 <div align="center" width="50">
 
 <img src="https://raw.githubusercontent.com/Jones-6199/Jones-6199/76258f6994e5ff9c69c2a076ad07645f77163466/download.svg" alt="Workspace"  width="100%"/><br> 
@@ -71,7 +72,7 @@
 </div>
 
 <h3 align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/devdotto.svg" alt="Developer" width="26" height="26" />
- Languages:</h3>
+ Languages & Frameworks:</h3>
 
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
