@@ -38,6 +38,28 @@
 		**	 Open to new opportunities and collaborations, always excited to learn, grow, and take on new challenges  **
 	</h2>
 </div>
+---
+
+
+
+<div align="center">
+
+### 🎯  Soft Skills:
+
+ 🤝 Teamwork | ✨ Critical Thinking | 🗣️ Communication |  ⏰ Time Management |  💡 Adaptability  | 👥 Collaboration  | 📚 Self-Learning  
+
+</div>
+ 
+
+
+
+
+
+
+
+
+
+---
 
 
 
@@ -149,28 +171,7 @@
 
 
 
----
 
-
-
-<div align="center">
-
-### 🎯  Soft Skills:
-
- 🤝 Teamwork | ✨ Critical Thinking | 🗣️ Communication |  ⏰ Time Management |  💡 Adaptability  | 👥 Collaboration  | 📚 Self-Learning  
-
-</div>
- 
-
-
-
-
-
-
-
-
-
----
 
 
 <h3 align="center">📫 Connect with me:</h3>
