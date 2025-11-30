@@ -38,7 +38,7 @@
 		**	 Open to new opportunities and collaborations, always excited to learn, grow, and take on new challenges  **
 	</h2>
 </div>
----
+
 
 
 
