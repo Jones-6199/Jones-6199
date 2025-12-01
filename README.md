@@ -27,7 +27,7 @@
 
 <h2> Frontend Developer based in Algeria. A self-taught Software Developer with a strong motivation to learn new technologies and explore everything related to web development. Constantly improving my skills, and contributing to projects that make an impact.
 <br> <br>
-   Always learning, always coding, always improving.  
+    
 </div>
 
 	
@@ -39,7 +39,10 @@
 			 Open to new opportunities and collaborations, always excited to learn, grow, and take on new challenges.
 	</h2>
 </div>
+<h2 align="center">
+ 	** Always learning, always coding, always improving. *** 
 
+</h2>
 
 
 
