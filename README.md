@@ -40,7 +40,7 @@
 	</h2>
 </div>
 <h2 align="center">
- 	** Always learning, always coding, always improving. *** 
+ 	** Always learning, always coding, always improving **
 
 </h2>
 
