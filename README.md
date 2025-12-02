@@ -30,31 +30,6 @@
 		** Always learning, always coding, always improving **
 </p>
 
-	
-
-    
-
-
-	
-
-			 
-	
-
- 	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 
@@ -227,12 +202,17 @@
 
 
 
-<a href="https://www.upwork.com/freelancers/~01b2a73d3f5cd2fc6b">
+
+<a href="https://www.upwork.com/freelancers/~01b2a73d3f5cd2fc6b" target="_blank" rel="noreferrer">
   <img 
-    src="https://www.vectorlogo.zone/logos/upwork/upwork-ar21.svg" 
-    width="120"
+    src="https://www.citypng.com/public/uploads/preview/png-upwork-square-black-logo-icon-701751694968608jsojhcgukz.png" 
+    alt="upwork" 
+    width="50" 
+    height="50"
+    style="border-radius: 50%; object-fit: cover;" 
   />
 </a>
+
 
 </p>
 
