@@ -3,7 +3,8 @@
 
 <div align="center" width="50">
 
-<p align="center"><img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" width="100%" height="auto"/></p>
+<p align="center">
+	<img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" width="100%" height="auto"/></p>
 <div align="center">
 
 </div>
@@ -23,36 +24,29 @@
   </p>
   
 <h2>🖐🏻 Hey! Nice to see you, I'm Benziane Younes.</h2>
-
-<h2> 	Frontend Developer based in Algeria. A self-taught Software Developer with a strong motivation to learn new technologies and explore everything related to web development. Constantly improving my skills, and contributing to projects that make an impact.
-<br> <br>
-    
-</div>
+<p>
+	- Frontend Developer based in Algeria. A self-taught Software Developer with a strong motivation to learn new technologies and explore everything related to web development. Constantly improving my skills, and contributing to projects that make an impact. </br>
+	-	My long-term goal is to grow into a full-stack developer. I love learning new tools, exploring best practices, and turning ideas into real, functional products. I'm always open to collaboration and excited to contribute to impactful projects. </br>
+	-	Open to new opportunities and collaborations, always excited to learn, grow, and take on new challenges.
+	-	** Always learning, always coding, always improving **
+</p>
 
 	
-<div>
-	<h2 align="center">
-		 My long-term goal is to grow into a full-stack developer. I love learning new tools, exploring best practices, and turning ideas into real, functional products. I'm always open to collaboration and excited to contribute to impactful projects. 
-</h2>
-	<h2 align="center">
-			 Open to new opportunities and collaborations, always excited to learn, grow, and take on new challenges.
-	</h2>
-</div>
-<h2 align="center">
- 	** Always learning, always coding, always improving **
 
-</h2>
+    
+
+
+	
+
+			 
+	
+
+ 	
 
 
 
-<div align="center">
 
-### 🎯  Soft Skills:
 
- 🤝 Teamwork | ✨ Critical Thinking | 🗣️ Communication |  ⏰ Time Management |  💡 Adaptability  | 👥 Collaboration  | 📚 Self-Learning  
-
-</div>
- 
 
 
 
@@ -67,8 +61,9 @@
 
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> </b>
-
+<div align="left">
+	<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+</div>
 <div align="right">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
 </div>
@@ -180,8 +175,9 @@
 
 </p>
 
-
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> </b>
+<div align="left">
+	<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+</div>
 <div align="right">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
 </div>
@@ -228,18 +224,10 @@
 <a href="https://www.youtube.com/@JonesThegreat" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg#gh-dark-mode-only" width="50" height="50"/>
 </a>
-<a href="https://wa.me/213658102698" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="50" height="50"/>
-</a>
-<a href="https://www.instagram.com/jonesthegoat_/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="50" height="50" style="filter: brightness(0) invert(1);" #gh-dark-mode-only />
-</a>
-<a href="mailto:younesbenziane17@gmail.com" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="50" height="50" style="filter: brightness(0) invert(1);" #gh-dark-mode-only />
-</a>
-<a href="https://gitlab.com/younesbenziane17" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gitlab.svg" width="50" height="50" #gh-light-mode-only />
-</a>
+
+
+
+
 <a href="https://www.upwork.com/freelancers/~01b2a73d3f5cd2fc6b">
   <img 
     src="https://www.vectorlogo.zone/logos/upwork/upwork-ar21.svg" 
