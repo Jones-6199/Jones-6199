@@ -166,10 +166,17 @@
 
 <h3 align="center">📫 Connect with me:</h3>
 <p align="center">
-	<a href="https://x.com/Benziane_younes">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg#gh-dark-mode-only" 
-       width="50" height="50"/>
+<a href="https://x.com/Benziane_younes" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" 
+         width="50" height="50" />
+  </picture>
 </a>
+
 
 <a href="https://github.com/Jones-6199" target="_blank" rel="noreferrer">
 	<picture>
@@ -193,11 +200,27 @@
 	</picture>
 </a>
 <a href="https://discord.com/channels/1420837325956714589/1420837326913011774" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg#gh-dark-mode-only" width="50" height="50"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" 
+         width="50" height="50" />
+  </picture>
 </a>
+
 <a href="https://www.youtube.com/@JonesThegreat" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg#gh-dark-mode-only" width="50" height="50"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" 
+         width="50" height="50" />
+  </picture>
 </a>
+
 
 
 
