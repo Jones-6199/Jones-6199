@@ -9,7 +9,7 @@
 </div>
 
 <p>
-  <a href="https://b-y.netlify.app/">
+  <a href="https://benzianeyounes.me/">
     <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/>
   </a>
 	 <a href="https://github.com/Jones-6199">
