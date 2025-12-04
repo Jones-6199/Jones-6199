@@ -27,7 +27,7 @@
 	- Frontend Developer based in Algeria. A self-taught Software Developer with a strong motivation to learn new technologies and explore everything related to web development. Constantly improving my skills, and contributing to projects that make an impact. </br>
 	-	My long-term goal is to grow into a full-stack developer. I love learning new tools, exploring best practices, and turning ideas into real, functional products. I'm always open to collaboration and excited to contribute to impactful projects. </br>
 	-	Open to new opportunities and collaborations on Web Development , always excited to learn, grow, and take on new challenges. </br>
-		** <b>Always learning, always coding, always improving</b>  **
+		 <b> ** Always learning, always coding, always improving ** </b> 
 </p>
 
 ---
