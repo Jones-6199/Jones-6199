@@ -114,6 +114,16 @@
 <a href="https://www.hackerrank.com/profile/younesbenziane17" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="50" height="50" />
 </a>
+<a href="https://stackoverflow.com/users/31922588/benziane-younes" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg"
+         width="50" height="50" />
+  </picture>
+</a>
 
 
 </p>
