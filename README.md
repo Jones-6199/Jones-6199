@@ -100,7 +100,14 @@
     height="40"
   />
 </a>
-
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" 
+    alt="redux" 
+    width="40" 
+    height="40"
+  />
+</a>
 </p>
 
 
@@ -108,7 +115,7 @@
 <h3 align="center">
  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> </b>
   <span>
-    &nbsp;Tools & Libraries :
+    &nbsp;Tools & DevOps :
   </span>
 </h3>
 
@@ -137,14 +144,7 @@
 	<img src="https://cdn.iconscout.com/icon/free/png-256/insomnia-282591.png" width="48" alt="Insomnia" title="Insomnia"/>
 
 </a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-  <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" 
-    alt="redux" 
-    width="40" 
-    height="40"
-  />
-</a>
+
 
 
 </p>
