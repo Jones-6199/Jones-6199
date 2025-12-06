@@ -244,6 +244,10 @@
   </picture>
 </a>
 
+<a href="https://learn.microsoft.com/en-us/users/benzianeyounes-8310/" target="_blank" rel="noreferrer">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlpV_vRFsMp8QAVn8L2AkG8_QhI2is69r_kg&s" 
+       width="50" height="50" alt="Microsoft Learn" />
+</a>
 
 </p>
 
