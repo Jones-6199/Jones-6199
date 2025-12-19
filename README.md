@@ -9,10 +9,10 @@
 </div>
 
 <p>
-  <a href="https://benzianeyounes.me/">
+  <a href="https://benzianeyounes.me/" target="_blank">
     <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/>
   </a>
-	 <a href="https://drive.google.com/file/d/1zxUGHGfGgexyulGU4aTRd4FKOid8cMRr/view?usp=drive_link">
+	 <a href="https://drive.google.com/file/d/1zxUGHGfGgexyulGU4aTRd4FKOid8cMRr/view?usp=drive_link" target="_blank">
       <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/></a>
 </p>
 
