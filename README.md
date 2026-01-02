@@ -146,6 +146,37 @@
 </a>
 
 
+<h3 align="center">
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> </b>
+  <span>
+    &nbsp;Design :
+  </span>
+</h3>
+<img
+  src="https://cdn-1.webcatalog.io/catalog/framer/framer-icon-filled-256.webp"
+  width="48"
+  alt="Framer"
+  title="Framer"
+/>
+
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img 
+    src="https://skillicons.dev/icons?i=figma&theme=dark" 
+    width="48" 
+    height="48" 
+    alt="Figma" 
+    title="Figma"
+  />
+</a>
+
+<a href="#" title="UI/UX Design">
+  <img 
+    src="https://cdn-icons-png.flaticon.com/512/3159/3159310.png" 
+    width="48" 
+    height="48" 
+    alt="UI/UX Design"
+  />
+</a>
 
 </p>
 
@@ -155,6 +186,7 @@
 <div align="right">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
 </div>
+
 
 
 
