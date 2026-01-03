@@ -178,6 +178,33 @@
   />
 </a>
 
+<h3 align="center">
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> </b>
+  <span>
+    &nbsp;Automation & AI
+ :
+  </span>
+</h3>
+<a href="https://www.deepseek.ai/" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.aliwebs.dev/icons/deepseek.webp" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.aliwebs.dev/icons/deepseek.webp" />
+    <img src="https://www.aliwebs.dev/icons/deepseek.webp" width="50" height="50" alt="DeepSeek" title="DeepSeek"/>
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.aliwebs.dev/icons/chatgpt.webp" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.aliwebs.dev/icons/chatgpt.webp" />
+    <img src="https://www.aliwebs.dev/icons/chatgpt.webp" width="50" height="50" alt="ChatGPT" title="ChatGPT"/>
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.aliwebs.dev/icons/lovable.webp" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.aliwebs.dev/icons/lovable.webp" />
+    <img src="https://www.aliwebs.dev/icons/lovable.webp" width="50" height="50" alt="Lovable AI" title="Lovable AI"/>
+  </picture>
+</a>
+
 </p>
 
 <div align="left">
