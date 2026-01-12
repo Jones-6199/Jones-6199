@@ -116,7 +116,14 @@
 </a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+    alt="docker"
+    width="40"
+    height="40"
+  />
+</a>
 </p>
 
 
