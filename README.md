@@ -114,6 +114,8 @@
        width="40"
        height="40"/>
 </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
 
 </p>
 
@@ -151,7 +153,24 @@
 	<img src="https://cdn.iconscout.com/icon/free/png-256/insomnia-282591.png" width="48" alt="Insomnia" title="Insomnia"/>
 
 </a>
-
+<a href="https://swagger.io/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg"
+    width="48"
+    height="48"
+    alt="Swagger"
+    title="Swagger"
+  />
+</a>
+<a href="https://code.visualstudio.com/insiders/" target="_blank" rel="noreferrer">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg"
+    width="48"
+    height="48"
+    alt="VS Code Insiders"
+    title="VS Code Insiders"
+  />
+</a>
 
 <h3 align="center">
  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> </b>
