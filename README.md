@@ -172,8 +172,8 @@
 <a href="https://code.visualstudio.com/insiders/" target="_blank" rel="noreferrer">
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg"
-    width="48"
-    height="48"
+    width="40"
+    height="40"
     alt="VS Code Insiders"
     title="VS Code Insiders"
   />
