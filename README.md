@@ -58,6 +58,7 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
+	
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
@@ -75,7 +76,7 @@
   </a>
 	  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-  
+  <br/>
  
 </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
@@ -151,6 +152,7 @@
 
   <!-- Added Icons -->
   <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" alt="Vercel" title="Vercel"/>
+  <br/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" alt="Firebase" title="Firebase"/>
   <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="48" alt="Visual Studio" title="Visual Studio"/>
 
