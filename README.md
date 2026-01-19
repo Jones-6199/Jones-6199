@@ -12,7 +12,7 @@
   <a href="https://benzianeyounes.me/" target="_blank">
     <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/>
   </a>
-	 <a href="https://privateemail.com/appsuite/ui#!!&app=io.ox/files&folder=10&id=10/2" target="_blank">
+	 <a href="https://drive.google.com/file/d/1CfU_6FFgMB3GYaejWdu-MKUIkueIINOc/view" target="_blank">
       <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/></a>
 </p>
 
