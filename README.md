@@ -22,7 +22,7 @@
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
   </p>
   
-<h2>🖐🏻 Hey! Nice to see you, I'm Benziane Younes.</h2>
+<h2> <i>🖐🏻 Hey! Nice to see you, I'm Benziane Younes.</i> </h2>
 <p>
 	- Frontend Developer based in Algeria. A self-taught Software Developer with a strong motivation to learn new technologies and explore everything related to web development. Constantly improving my skills, and contributing to projects that make an impact. </br>
 	-	My long-term goal is to grow into a full-stack developer. I love learning new tools, exploring best practices, and turning ideas into real, functional products. I'm always open to collaboration and excited to contribute to impactful projects. </br>
