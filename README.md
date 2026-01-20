@@ -92,13 +92,8 @@
     height="40"
   />
 </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
-       alt="nextjs"
-       width="40"
-       height="40"/>
-</a>
-
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs logo"   width="40" 
+    height="40" />
 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
   <img 
@@ -123,7 +118,7 @@
        height="40"/>
 </a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+    <img src="https://skillicons.dev/icons?i=express" height="40" width="40"  alt="express logo"  />
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
