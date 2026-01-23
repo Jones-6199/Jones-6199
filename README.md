@@ -245,6 +245,12 @@
     <img src="https://www.aliwebs.dev/icons/lovable.webp" width="50" height="50" alt="Lovable AI" title="Lovable AI"/>
   </picture>
 </a>
+<a href="https://replit.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/replit/replit-original.svg" alt="replit" width="40" height="40"/>
+</a>
+<a href="https://bolt.new" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/stackblitz.svg" alt="bolt" width="40" height="40"/>
+</a>
 
 </p>
 
