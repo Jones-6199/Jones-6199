@@ -37,7 +37,10 @@
 	<i>♦	My long-term goal is to grow into a full-stack developer. I love learning new tools, exploring best practices, and turning ideas into real, functional products. I'm always open to collaboration and excited to contribute to impactful projects.</i>
 	 </br>
 	 <i>♦	Open to new opportunities and collaborations on Web Development , always excited to learn, grow, and take on new challenges.</i>
-	 </br>
+	 </br>  <i>♦	I’m also the founder and lead instructor of MeetyourSkills, an educational platform offering live web development sessions, hands-on projects, and practical learning opportunities.</i>
+	 
+	
+	 
 		
 </p>
  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
