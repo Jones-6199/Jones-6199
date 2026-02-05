@@ -15,7 +15,7 @@
   <a href="https://benzianeyounes.me/" target="_blank">
     <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/>
   </a>
-	 <a href="https://drive.google.com/file/d/1Kl1JR32ENaIcxURH6WSaDB5ARVQOmsTU/view?usp=sharing" target="_blank">
+	 <a href="https://drive.google.com/file/d/1krNAfu7Kldk-8TvLNsSDKsykzlqZw5tG/view?usp=drive_link" target="_blank">
       <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/></a>
 	
 </p><p>
