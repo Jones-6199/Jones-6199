@@ -10,19 +10,30 @@
 
 
 
+
+
+
+
+
 <br/>
 <p>
   <a href="https://benzianeyounes.me/" target="_blank">
     <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/>
-  </a>
-	 <a href="https://drive.google.com/file/d/1acqnW1mIOASdemS2U7_1AAl3zGnP82J-/view?usp=sharing" target="_blank">
-      <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/></a>
-	
-</p><p>
-	<a href="https://meetyourskills.tech" target="_blank">
+ <a href="https://benzianeyounes.me/EN.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/My%20CV%20(EN)-005520?style=flat-square&logo=googledrive&logoColor=white" 
+       style="height:34px; object-fit:contain;"/>
+</a>
+<a href="https://benzianeyounes.me/FR.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/My%20CV%20(FR)-005520?style=flat-square&logo=googledrive&logoColor=white" 
+       style="height:34px; object-fit:contain;"/>
+</a>
+<a href="https://meetyourskills.tech" target="_blank">
   <img src="https://img.shields.io/badge/FOUNDER%20OF-8B0000?style=flat-square&logo=vercel&logoColor=white" style="height:34px; object-fit:contain;"/>
 </a>
-</p>
+	
+
+	
+
 
  <br>
   <p align="center">
