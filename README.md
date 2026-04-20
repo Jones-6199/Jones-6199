@@ -36,6 +36,10 @@
 
 
  <br>
+ <a href="https://buymeacoffee.com/younesbenzv" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-6F4E37?style=flat-square&logo=buymeacoffee&logoColor=white" 
+       style="height:34px; object-fit:contain;" />
+</a>
   <p align="center">
     <a href="https://github.com/Jones-6199?tab=repositories" target="_blank"> <!-- Google Me -->
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
