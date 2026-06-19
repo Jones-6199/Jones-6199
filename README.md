@@ -19,14 +19,14 @@
 <p>
   <a href="https://benzianeyounes.me/" target="_blank">
     <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/>
- <a href="https://benzianeyounes.me/EN.pdf" target="_blank">
+ <a href="https://benzianeyounes.me/EN.pdf" target="_blank"> </br>
   <img src="https://img.shields.io/badge/My%20CV%20(EN)-005520?style=flat-square&logo=googledrive&logoColor=white" 
-       style="height:34px; object-fit:contain;"/>
-</a>
+       style="height:34px; object-fit:contain;"/> 
+</a> </br>
 <a href="https://benzianeyounes.me/FR.pdf" target="_blank">
   <img src="https://img.shields.io/badge/My%20CV%20(FR)-005520?style=flat-square&logo=googledrive&logoColor=white" 
        style="height:34px; object-fit:contain;"/>
-</a>
+</a> </br> 
 <a href="https://meetyourskills.tech" target="_blank">
   <img src="https://img.shields.io/badge/FOUNDER%20OF-8B0000?style=flat-square&logo=vercel&logoColor=white" style="height:34px; object-fit:contain;"/>
 </a>
