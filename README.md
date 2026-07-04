@@ -286,7 +286,9 @@
     <img src="https://www.aliwebs.dev/icons/lovable.webp" width="50" height="50" alt="Lovable AI" title="Lovable AI"/>
   </picture>
 </a>
-
+<a href="https://claude.ai/" target="_blank" rel="noreferrer">
+  <img src="https://www.fortsoft.com.ua/upload/iblock/35e/claude_ai_fortsoft.png" alt="Claude AI" width="50" height="50" />
+</a>
 </p>
 
 <div align="left">
