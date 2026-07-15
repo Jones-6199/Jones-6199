@@ -239,7 +239,7 @@
 </h3>
 <img
   src="https://cdn-1.webcatalog.io/catalog/framer/framer-icon-filled-256.webp"
-  width="48"
+  width="40" height="40"
   alt="Framer"
   title="Framer"
 />
@@ -247,8 +247,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img 
     src="https://skillicons.dev/icons?i=figma&theme=dark" 
-    width="48" 
-    height="48" 
+    width="40" height="40"
     alt="Figma" 
     title="Figma"
   />
@@ -257,12 +256,11 @@
 <a href="#" title="UI/UX Design">
   <img 
     src="https://cdn-icons-png.flaticon.com/512/3159/3159310.png" 
-    width="48" 
-    height="48" 
+   width="40" height="40"
     alt="UI/UX Design"
   />
 </a>
-<img src="https://raw.githubusercontent.com/mohammed-esi/mohammed-esi/refs/heads/main/assets/images/adobe-photoshop%201.png" width="48"/>
+<img src="https://raw.githubusercontent.com/mohammed-esi/mohammed-esi/refs/heads/main/assets/images/adobe-photoshop%201.png" width="40" height="40"/>
 
 <h3 align="center">
  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> </b>
@@ -275,23 +273,23 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://www.aliwebs.dev/icons/deepseek.webp" />
     <source media="(prefers-color-scheme: light)" srcset="https://www.aliwebs.dev/icons/deepseek.webp" />
-    <img src="https://www.aliwebs.dev/icons/deepseek.webp" width="50" height="50" alt="DeepSeek" title="DeepSeek"/>
+    <img src="https://www.aliwebs.dev/icons/deepseek.webp" width="40" height="40" alt="DeepSeek" title="DeepSeek"/>
   </picture>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://www.aliwebs.dev/icons/chatgpt.webp" />
     <source media="(prefers-color-scheme: light)" srcset="https://www.aliwebs.dev/icons/chatgpt.webp" />
-    <img src="https://www.aliwebs.dev/icons/chatgpt.webp" width="50" height="50" alt="ChatGPT" title="ChatGPT"/>
+    <img src="https://www.aliwebs.dev/icons/chatgpt.webp" width="40" height="40" alt="ChatGPT" title="ChatGPT"/>
   </picture>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://www.aliwebs.dev/icons/lovable.webp" />
     <source media="(prefers-color-scheme: light)" srcset="https://www.aliwebs.dev/icons/lovable.webp" />
-    <img src="https://www.aliwebs.dev/icons/lovable.webp" width="50" height="50" alt="Lovable AI" title="Lovable AI"/>
+    <img src="https://www.aliwebs.dev/icons/lovable.webp" width="40" height="40" alt="Lovable AI" title="Lovable AI"/>
   </picture>
 </a>
 <a href="https://claude.ai/" target="_blank" rel="noreferrer">
-  <img src="https://www.fortsoft.com.ua/upload/iblock/35e/claude_ai_fortsoft.png" alt="Claude AI" width="50" height="50" />
+  <img src="https://www.fortsoft.com.ua/upload/iblock/35e/claude_ai_fortsoft.png" alt="Claude AI" width="40" height="40" />
 </a>
 </p>
 
