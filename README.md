@@ -35,7 +35,7 @@
 	
 
 
- <br>
+ 
 <!--  <a href="https://buymeacoffee.com/younesbenzv" target="_blank">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-6F4E37?style=flat-square&logo=buymeacoffee&logoColor=white" 
        style="height:34px; object-fit:contain;" />
@@ -184,52 +184,96 @@
 </h3>
 
 <p align="center">
-  <!-- Main Skill Icons -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,gitlab,vite,npm,yarn,mui&theme=dark" />
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
 
-  <!-- Cursor IDE Icon -->
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="48" alt="Cursor IDE" title="Cursor IDE"/>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" alt="GitHub" width="40" height="40"/>
+  </a>
 
-  <!-- Added Icons -->
-  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" alt="Vercel" title="Vercel"/>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+
+  <a href="https://code.visualstudio.com/insiders/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg" alt="VS Code Insiders" width="40" height="40"/>
+  </a>
+
+  <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
+  </a>
+
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+  </a>
+
+  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="Yarn" width="40" height="40"/>
+  </a>
+
+  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
+  </a>
+
+  <a href="https://cursor.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="Cursor" width="40" height="40"/>
+  </a>
   <br/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" alt="Firebase" title="Firebase"/>
-  <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="48" alt="Visual Studio" title="Visual Studio"/>
 
-  <!-- Bitbucket Icon -->
-  <img src="https://skillicons.dev/icons?i=bitbucket&theme=dark" width="48" alt="Bitbucket" title="Bitbucket"/>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" width="40" height="40"/>
+  </a>
+
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" alt="Visual Studio" width="40" height="40"/>
+  </a>
+
+  <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=bitbucket&theme=dark" alt="Bitbucket" width="40" height="40"/>
+  </a>
+
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/netlify-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/netlify.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/netlify.svg" width="50" height="50"/>
-  </picture>
-  <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" width="48" alt="PyCharm" title="PyCharm"/>
-	<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" alt="Postman" title="Postman"/>
-	<img src="https://cdn.iconscout.com/icon/free/png-256/insomnia-282591.png" width="48" alt="Insomnia" title="Insomnia"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/netlify-dark.svg"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/netlify.svg"/>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/netlify.svg" alt="Netlify" width="40" height="40"/>
+    </picture>
+  </a>
 
-</a>
-<a href="https://swagger.io/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg"
-    width="48"
-    height="48"
-    alt="Swagger"
-    title="Swagger"
-  />
-</a>
-<a href="https://code.visualstudio.com/insiders/" target="_blank" rel="noreferrer">
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg"
-    width="40"
-    height="40"
-    alt="VS Code Insiders"
-    title="VS Code Insiders"
-  />
-</a>
-<a href="https://notebooklm.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT0O4Joy_hQL3OehHSHfdVBsNu-ebZZ-V-vw&s" alt="NotebookLM" width="40" height="40"/>
-</a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" alt="PyCharm" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" width="40" height="40"/>
+  </a>
+
+  <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/insomnia-282591.png" alt="Insomnia" width="40" height="40"/>
+  </a>
+
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/>
+  </a>
+
+  <a href="https://notebooklm.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT0O4Joy_hQL3OehHSHfdVBsNu-ebZZ-V-vw&s" alt="NotebookLM" width="40" height="40"/>
+  </a>
+</p>
+
+
+
+
+
 
 <h3 align="center">
  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> </b>
@@ -264,7 +308,8 @@
 
 <h3 align="center">
  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> </b>
-  <span>
+ 
+<span>
     &nbsp;Automation & AI
  :
   </span>
